@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Spinner</string>
+    <string name="action_settings">Settings</string>    
+    <string name="result">This is the result activity opened from notification</string>
+    <string name="create_notification">Create Notification</string>
+    <string name="google">www.Google.com</string>
+    <string name="mobile">8197973804</string>
+
+</resources>
